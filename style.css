@@ -1,0 +1,180 @@
+.container{
+    max-width: 940px;
+    padding: 0 7px;
+    margin: 0 auto;
+}
+.logo{
+    font-family: "Bilbo Swash Caps";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 41px;
+        letter-spacing: 1.2999999523162842px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color:#FED136;;
+        margin-top: 0;
+}
+header{
+    display: flex;
+    width: 933px;
+    height: 45px;
+    justify-content: space-between;
+}
+.list-nav-site{
+    display: flex;
+    gap: 45px;
+    
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.nav-site{
+    font-family: "Montserrat";
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 41px;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #FED136;;
+}
+.ourservices{
+    font-family: "Montserrat";
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 75px;
+        letter-spacing: -1px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #222222;
+}
+.contactus{
+    font-family: "Montserrat";
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 48.76px;
+        letter-spacing: -1px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #FFFFFF;
+}
+.bottom-color{
+    background-color: #222222;
+    height: 600px;
+    width: 2000px;
+}
+.services{
+    font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 75px;
+        letter-spacing: -0.44999998807907104px;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        text-transform: capitalize;
+        color: #222222;
+        text-align: center;
+}
+.aboutservices{
+    font-family: "RobotoSlab";
+        font-size: 14px;
+        line-height: 16.41px;
+        letter-spacing: -0.3499999940395355px;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #777777;
+        text-align: center;
+}
+.sendmessage{
+    color: white;
+    background-color: #FED136;
+    width: 242px;
+        height: 68px;
+        gap: 0px;
+        opacity: 0px;
+}
+.yourname{
+    width: 455px;
+        height: 50px;
+        top: 2px;
+        left: 1px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        color: #FFFFFF;      
+}
+.email{
+    width: 457px;
+        height: 53px;
+        top: 80px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+}
+.subject{
+    width: 457px;
+        height: 53px;
+        top: 161px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+}
+.feedbackplace{
+    width: 350px;
+        height: 145px;
+        left: 484px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+}
+.list-services{
+    display: flex;
+    text-align: center;
+}
+.svg-store-case,.svg-security,.svg-approved{
+    border: 3px solid rgba(254, 209, 54, 1);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.list-forms{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 40px;
+    font-family: "Montserrat";
+}
+textarea{
+    display:flex;
+}
+.feedback{
+    display: flex;
+    flex-wrap: wrap;
+}
+.message-button{
+    display: flex;
+    justify-content: center;
+    font-family: "Montserrat";
+}
+.forms{
+    height: 40px;
+    width: 450px;
+    gap: 20px;
+}
+header{
+    align-items: center;
+}
+.title-contact{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+    padding-top: 30px;
+}
